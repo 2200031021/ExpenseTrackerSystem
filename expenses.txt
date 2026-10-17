@@ -1,4 +1,0 @@
-1|100.0|food|2026-10-15|Lunch
-2|250.0|travel|2026-10-16|Bus Ticket
-3|500.0|Food|2026-10-17|dinner
-4|300.0|shopping|2026-10-17|Shoes

@@ -1,2 +1,0 @@
-1|250.0|food|2026-10-15|lunch
-2|120.0|Transport|2026-10-16|Bus Fare

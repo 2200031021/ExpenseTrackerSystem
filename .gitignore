@@ -1,0 +1,21 @@
+
+# Saved user accounts and expense records
+users.txt
+expenses.txt
+expenses_*.txt
+
+# Java compiled files
+*.class
+
+# Eclipse settings
+.settings/
+.classpath
+.project
+
+# Build output
+bin/
+target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
